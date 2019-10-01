@@ -1,2 +1,2 @@
 brands = ("nike", "apple", "la croix")
-second_brand = ("sc
+second_brand = ("sco
