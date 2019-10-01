@@ -1,1 +1,1 @@
-brands =
+brands = (
