@@ -1,1 +1,1 @@
-brands = ("nike", "app
+brands = ("nike", "appl
